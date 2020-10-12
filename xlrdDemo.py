@@ -31,6 +31,10 @@ for i in range(rows):
 print(dataset)
 
 # Prints the data row by row | The sheet.row_value(x) returns the sheet as a list
-for i in range(sheet.nrows):
-    print(sheet.row_values(i))
-    # print(type(sheet.row_values(i)))
+# for i in range(sheet.nrows):
+#     print(sheet.row_values(i))
+#     # print(type(sheet.row_values(i)))
+
+# Prints the data row by Columns | The sheet.col_values(x) returns the sheet columns as a list
+# for i in range(sheet.ncols):
+#     print(sheet.col_values(i))
