@@ -20,21 +20,23 @@ columns = sheet.ncols
 rows = sheet.nrows
 
 dataset = []
-for i in range(rows):
-    row_data = []
-    for j in range(columns):
-        row_data.append(sheet.cell_value(i, j))
-        # print(sheet.cell(i, j))  # Prints the cells in the format 'type' : 'value'
-        # print(sheet.cell_value(i, j))  # Prints the value in the particular cells
-    dataset.append(row_data)
+# for i in range(rows):
+#     row_data = []
+#     for j in range(columns):
+#         row_data.append(sheet.cell_value(i, j))
+#         # print(sheet.cell(i, j))  # Prints the cells in the format 'type' : 'value'
+#         # print(sheet.cell_value(i, j))  # Prints the value in the particular cells
+#     dataset.append(row_data)
 
-print(dataset)
 
 # Prints the data row by row | The sheet.row_value(x) returns the sheet as a list
-# for i in range(sheet.nrows):
-#     print(sheet.row_values(i))
-#     # print(type(sheet.row_values(i)))
+for i in range(1,sheet.nrows):
+    # print(sheet.row_values(i))
+    dataset.append(sheet.row_values(i))
+    # print(type(sheet.row_values(i)))
+print(dataset)
 
 # Prints the data row by Columns | The sheet.col_values(x) returns the sheet columns as a list
 # for i in range(sheet.ncols):
 #     print(sheet.col_values(i))
+

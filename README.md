@@ -42,3 +42,9 @@ pip install pyinstaller
 
 ```
  
+## Task 03:
+Plot the temperature Data Graph 
+
+### Reports on Task 2
+
+**14/10/2020 01:36AM** : Draft of plotting based on the dummy data is completed in the dummyDATAplot.py | Need to create executable and Tkinter based small GUI  
