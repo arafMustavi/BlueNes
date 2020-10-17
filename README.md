@@ -1,7 +1,6 @@
 # Nesternship | HR Project | Medical Data
 
-
-Medical Data extraction as a part of the ongoing NesternShip program
+Medical Temperature Data Extraction as a part of the ongoing NesternShip program
 
 ## Task 01:
 Read Data from the excel file in the .xlsx format
@@ -47,4 +46,9 @@ Plot the temperature Data Graph
 
 ### Reports on Task 2
 
-**14/10/2020 01:36AM** : Draft of plotting based on the dummy data is completed in the dummyDATAplot.py | Need to create executable and Tkinter based small GUI  
+**14/10/2020 01:36AM** : Draft of plotting based on the dummy data is completed in the dummyDATAplot.py | Need to create executable and Tkinter based small GUI
+  
+**14/10/2020 02:42PM** : Using the date as x_label creates a mess up | Should go with values i.e: 1 2 3 4 5 and so on
+
+**14/10/2020 02:51PM** : pyinstaller works! Created The ClickMe HelloWorld in .exe format
+
