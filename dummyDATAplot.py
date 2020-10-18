@@ -2,7 +2,7 @@
 import xlrd
 
 # Give the location of the file
-loc = ("dummydata.xlsx")
+loc = ("Dataset Resources\dummydata.xlsx")
 
 # To open Workbook
 wb = xlrd.open_workbook(loc)
