@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c3c5491-90ee-472d-8f8a-0bf8afaf23de" name="Default Changelist" comment="" />
+    <list default="true" id="2c3c5491-90ee-472d-8f8a-0bf8afaf23de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/Idwise Temperature Plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Nesternship-HR-Project-Medical-Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Nesternship-HR-Project-Medical-Data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/HRProject_Temp_dummydata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/HRProject_Temp_dummydata.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,22 +23,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="485ac759-7981-4bef-90d5-f8722eca9e34" />
+  <component name="JupyterTrust" id="06458b3c-f04f-4e48-a8f9-3d80366327d5" />
   <component name="ProjectId" id="1j2UzJHXZEa1JV9tY1Jxxu7c2vc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Github Files\Nesternship-HR-Project-Medical-Data\GUI Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Random Temperature Generation">
+  <component name="RunManager" selected="Python.IDwise Temperature Plot">
     <configuration name="GUI Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Nesternship-HR-Project-Medical-Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,6 +58,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI Examples/GUI Example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IDwise Temperature Plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nesternship-HR-Project-Medical-Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/IDwise Temperature Plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Random Temperature Generation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nesternship-HR-Project-Medical-Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/Random Temperature Generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tkintertest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="namewise Temperature Plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Nesternship-HR-Project-Medical-Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI Examples/Tkintertest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/namewise Temperature Plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,9 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IDwise Temperature Plot" />
+        <item itemvalue="Python.namewise Temperature Plot" />
+        <item itemvalue="Python.Random Temperature Generation (1)" />
         <item itemvalue="Python.Random Temperature Generation" />
         <item itemvalue="Python.GUI Example" />
-        <item itemvalue="Python.Tkintertest" />
       </list>
     </recent_temporary>
   </component>
@@ -116,33 +173,46 @@
       <option name="presentableId" value="Default" />
       <updated>1603001945205</updated>
       <workItem from="1603001947007" duration="1980000" />
+      <workItem from="1603038075654" duration="191000" />
+      <workItem from="1603039731736" duration="371000" />
+      <workItem from="1603043266504" duration="878000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="41" key="GridCell.Tab.0.bottom" timestamp="1603003945354">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1323" height="253" key="GridCell.Tab.0.bottom" timestamp="1603044144424">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1237" height="41" key="GridCell.Tab.0.center" timestamp="1603003945354">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1323" height="253" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603044144424" />
+    <state width="1323" height="253" key="GridCell.Tab.0.center" timestamp="1603044144424">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1237" height="41" key="GridCell.Tab.0.left" timestamp="1603003945354">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1323" height="253" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603044144424" />
+    <state width="1323" height="253" key="GridCell.Tab.0.left" timestamp="1603044144424">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1237" height="41" key="GridCell.Tab.0.right" timestamp="1603003945354">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1323" height="253" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603044144424" />
+    <state width="1323" height="253" key="GridCell.Tab.0.right" timestamp="1603044144424">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
+    <state width="1323" height="253" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603044144424" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$Tkintertest.coverage" NAME="Tkintertest Coverage Results" MODIFIED="1603002392140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI Examples" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$IDwise_Temperature_Plot.coverage" NAME="IDwise Temperature Plot Coverage Results" MODIFIED="1603044125388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
     <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$GUI_Example.coverage" NAME="GUI Example Coverage Results" MODIFIED="1603002404819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI Examples" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$Random_Temperature_Generation__1_.coverage" NAME="Random Temperature Generation (1) Coverage Results" MODIFIED="1603043333479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$namewise_Temperature_Plot.coverage" NAME="namewise Temperature Plot Coverage Results" MODIFIED="1603043660754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$Tkintertest.coverage" NAME="Tkintertest Coverage Results" MODIFIED="1603002392140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI Examples" />
     <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$Random_Temperature_Generation.coverage" NAME="Random Temperature Generation Coverage Results" MODIFIED="1603003309616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

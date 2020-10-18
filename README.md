@@ -55,3 +55,5 @@ Plot the temperature Data Graph
 **17/10/2020 10:33PM** : Dropped the Stashed Change due to an asshole activity. Don't forget to commit everytime you moron
 
 **18/10/2020 01:47PM** : Dataplot namewise complete | Date Range Should be Implemented | Integration of plotted data and .exe is in the pipeline
+
+**19/10/2020 12:03AM** : Search by ID done
