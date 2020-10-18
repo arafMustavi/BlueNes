@@ -44,11 +44,13 @@ pip install pyinstaller
 ## Task 03:
 Plot the temperature Data Graph 
 
-### Reports on Task 2
+### Reports on Task 3
 
 **14/10/2020 01:36AM** : Draft of plotting based on the dummy data is completed in the dummyDATAplot.py | Need to create executable and Tkinter based small GUI
   
 **14/10/2020 02:42PM** : Using the date as x_label creates a mess up | Should go with values i.e: 1 2 3 4 5 and so on
 
 **14/10/2020 02:51PM** : pyinstaller works! Created The ClickMe HelloWorld in .exe format
+
+**17/10/2020 10:33PM** : Dropped the Stashed Change due to an asshole activity. Don't forget to commit everytime you moron
 
