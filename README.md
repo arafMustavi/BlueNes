@@ -57,3 +57,5 @@ Plot the temperature Data Graph
 **18/10/2020 01:47PM** : Dataplot namewise complete | Date Range Should be Implemented | Integration of plotted data and .exe is in the pipeline
 
 **19/10/2020 12:03AM** : Search by ID done
+
+**19/10/2020 12:25PM** : GUI and Plot Integration ongoing

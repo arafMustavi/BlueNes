@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c3c5491-90ee-472d-8f8a-0bf8afaf23de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/IDwise Temperature Plot2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/HelloWorld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/HelloWorld.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/HelloWorld.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/warn-HelloWorld.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/xref-HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/dist/HelloWorld.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +191,7 @@
       <workItem from="1603038075654" duration="191000" />
       <workItem from="1603039731736" duration="371000" />
       <workItem from="1603043266504" duration="878000" />
-      <workItem from="1603085532489" duration="2375000" />
+      <workItem from="1603085532489" duration="3453000" />
     </task>
     <servers />
   </component>
@@ -187,26 +202,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="140" key="GridCell.Tab.0.bottom" timestamp="1603087908768">
+    <state width="1323" height="140" key="GridCell.Tab.0.bottom" timestamp="1603088758991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603087908768" />
-    <state width="1323" height="140" key="GridCell.Tab.0.center" timestamp="1603087908767">
+    <state width="1323" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603088758991" />
+    <state width="1323" height="140" key="GridCell.Tab.0.center" timestamp="1603088758991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603087908767" />
-    <state width="1323" height="140" key="GridCell.Tab.0.left" timestamp="1603087908766">
+    <state width="1323" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603088758991" />
+    <state width="1323" height="140" key="GridCell.Tab.0.left" timestamp="1603088758990">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603087908766" />
-    <state width="1323" height="140" key="GridCell.Tab.0.right" timestamp="1603087908767">
+    <state width="1323" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603088758990" />
+    <state width="1323" height="140" key="GridCell.Tab.0.right" timestamp="1603088758991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603087908767" />
+    <state width="1323" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603088758991" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Nesternship_BlueNes$IDwise_Temperature_Plot.coverage" NAME="IDwise Temperature Plot Coverage Results" MODIFIED="1603044125388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
@@ -214,7 +229,7 @@
     <SUITE FILE_PATH="coverage/Nesternship_BlueNes$Random_Temperature_Generation__1_.coverage" NAME="Random Temperature Generation (1) Coverage Results" MODIFIED="1603043333479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
     <SUITE FILE_PATH="coverage/Nesternship_BlueNes$namewise_Temperature_Plot.coverage" NAME="namewise Temperature Plot Coverage Results" MODIFIED="1603043660754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
     <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$Tkintertest.coverage" NAME="Tkintertest Coverage Results" MODIFIED="1603002392140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI Examples" />
-    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$IDwise_Temperature_Plot2.coverage" NAME="IDwise Temperature Plot2 Coverage Results" MODIFIED="1603087908728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$IDwise_Temperature_Plot2.coverage" NAME="IDwise Temperature Plot2 Coverage Results" MODIFIED="1603087983875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
     <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$Random_Temperature_Generation.coverage" NAME="Random Temperature Generation Coverage Results" MODIFIED="1603003309616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
