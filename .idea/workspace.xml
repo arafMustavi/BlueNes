@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c3c5491-90ee-472d-8f8a-0bf8afaf23de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/HelloWorld.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/HelloWorld.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/warn-HelloWorld.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/build/HelloWorld/xref-HelloWorld.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/executable Test/dist/HelloWorld.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset Resources/HR Project_Sumaiya Data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaTex to PDF/Combining LaTeX with Python.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaTex to PDF/ConvertPDF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaTex to PDF/convertPDF2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaTex to PDF/convertPDF3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaTex to PDF/main.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -58,8 +49,8 @@
       <recent name="D:\Github Files\Nesternship-HR-Project-Medical-Data\GUI Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GUI and Plot">
-    <configuration name="GUI and Plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.convertPDF3">
+    <configuration name="ConvertPDF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Nesternship-HR-Project-Medical-Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,34 +58,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LaTex to PDF" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\Github Repos\Nesternship-BlueNes\Project 2 Employee Temperature Infographics\GUI and Plot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="IDwise Temperature Plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Nesternship-HR-Project-Medical-Data" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project 2 Employee Temperature Infographics/IDwise Temperature Plot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LaTex to PDF/ConvertPDF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Random Temperature Generation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="convertPDF2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Nesternship-HR-Project-Medical-Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +102,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LaTex to PDF" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random Temperature Generation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LaTex to PDF/convertPDF2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convertPDF3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nesternship-HR-Project-Medical-Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LaTex to PDF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LaTex to PDF/convertPDF3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GUI and Plot" />
-        <item itemvalue="Python.IDwise Temperature Plot" />
+        <item itemvalue="Python.convertPDF3" />
+        <item itemvalue="Python.convertPDF2" />
+        <item itemvalue="Python.ConvertPDF" />
         <item itemvalue="Python.namewise Temperature Plot" />
         <item itemvalue="Python.Random Temperature Generation (1)" />
-        <item itemvalue="Python.Random Temperature Generation" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +183,15 @@
       <workItem from="1603039731736" duration="371000" />
       <workItem from="1603043266504" duration="878000" />
       <workItem from="1603085532489" duration="3453000" />
+      <workItem from="1603093076027" duration="1217000" />
+      <workItem from="1603100098008" duration="1493000" />
+      <workItem from="1603102360415" duration="772000" />
+      <workItem from="1603123752363" duration="833000" />
+      <workItem from="1603126775374" duration="600000" />
+      <workItem from="1603169315231" duration="1685000" />
+      <workItem from="1603272546951" duration="1286000" />
+      <workItem from="1603278892154" duration="674000" />
+      <workItem from="1603375122784" duration="1669000" />
     </task>
     <servers />
   </component>
@@ -202,34 +202,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="140" key="GridCell.Tab.0.bottom" timestamp="1603088758991">
+    <state width="1323" height="341" key="GridCell.Tab.0.bottom" timestamp="1603375902298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603088758991" />
-    <state width="1323" height="140" key="GridCell.Tab.0.center" timestamp="1603088758991">
+    <state width="1323" height="341" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603375902298" />
+    <state width="1323" height="341" key="GridCell.Tab.0.center" timestamp="1603375902297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603088758991" />
-    <state width="1323" height="140" key="GridCell.Tab.0.left" timestamp="1603088758990">
+    <state width="1323" height="341" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603375902297" />
+    <state width="1323" height="341" key="GridCell.Tab.0.left" timestamp="1603375902296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603088758990" />
-    <state width="1323" height="140" key="GridCell.Tab.0.right" timestamp="1603088758991">
+    <state width="1323" height="341" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603375902296" />
+    <state width="1323" height="341" key="GridCell.Tab.0.right" timestamp="1603375902297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="41" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603003945354" />
-    <state width="1323" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603088758991" />
+    <state width="1323" height="341" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603375902297" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$IDwise_Temperature_Plot.coverage" NAME="IDwise Temperature Plot Coverage Results" MODIFIED="1603044125388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$IDwise_Temperature_Plot.coverage" NAME="IDwise Temperature Plot Coverage Results" MODIFIED="1603102441895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$ConvertPDF.coverage" NAME="ConvertPDF Coverage Results" MODIFIED="1603375719891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LaTex to PDF" />
     <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$GUI_Example.coverage" NAME="GUI Example Coverage Results" MODIFIED="1603002404819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI Examples" />
     <SUITE FILE_PATH="coverage/Nesternship_BlueNes$Random_Temperature_Generation__1_.coverage" NAME="Random Temperature Generation (1) Coverage Results" MODIFIED="1603043333479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$GUI_and_Plot__1_.coverage" NAME="GUI and Plot (1) Coverage Results" MODIFIED="1603102494931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$convertPDF3.coverage" NAME="convertPDF3 Coverage Results" MODIFIED="1603375902233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LaTex to PDF" />
     <SUITE FILE_PATH="coverage/Nesternship_BlueNes$namewise_Temperature_Plot.coverage" NAME="namewise Temperature Plot Coverage Results" MODIFIED="1603043660754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
     <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$Tkintertest.coverage" NAME="Tkintertest Coverage Results" MODIFIED="1603002392140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI Examples" />
     <SUITE FILE_PATH="coverage/Nesternship_BlueNes$IDwise_Temperature_Plot2.coverage" NAME="IDwise Temperature Plot2 Coverage Results" MODIFIED="1603087983875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project 2 Employee Temperature Infographics" />
+    <SUITE FILE_PATH="coverage/Nesternship_BlueNes$convertPDF2.coverage" NAME="convertPDF2 Coverage Results" MODIFIED="1603375768956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LaTex to PDF" />
     <SUITE FILE_PATH="coverage/Nesternship_HR_Project_Medical_Data$Random_Temperature_Generation.coverage" NAME="Random Temperature Generation Coverage Results" MODIFIED="1603003309616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

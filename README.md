@@ -59,3 +59,12 @@ Plot the temperature Data Graph
 **19/10/2020 12:03AM** : Search by ID done
 
 **19/10/2020 12:25PM** : GUI and Plot Integration ongoing
+
+## Task 04:
+Convert a latex file to pdf 
+
+### Reports on Task 4
+
+**22/10/2020 08:01PM** : Working with the pdflatex package
+
+**22/10/2020 08:30PM** : Worked with 3 of the example in https://pypi.org/project/pdflatex/ . Failed in a miserable way in all of them
